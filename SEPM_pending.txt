@@ -1,0 +1,26 @@
+Changes made in:
+
+1) index.php ( Changes made. No more changes needed.):1 hr
+2) statusretriever.php (changes made. ):3hrs
+3) /traind/traind.php (changes made. Connection error pending.):1hr
+4) /Train_route/Route_retriever.php (changes made. Connection error pending.):0.5hr
+5) Team.php ( image and content changed) }
+6) about.php ( image and content changed)}:0.5 hr 
+7) contact.php (star rating modified  and content changed):1 hr
+8) login.php ( modified but correction needed to do a proper logout)      }
+9) signup page ( database connection error resolved. No changes required) }:3 hrs 
+
+
+
+
+
+Changes required:
+
+1) Change images in about.php, team.php and make it look good.
+2) work on the login page to do a proper logout
+3) work on API to get the train location ( Use Railway API)
+4) work on /traind/traind.php page to get proper output (Remove background if needed, also change font color there)
+5) Lot of changes required in backend. Try your best. 
+6) Work on session cookies, such that only logged users can access the 'Enquiry' and 'Contact' tabs.
+7) A simple game page should be added for the logged in users.
+8) Dummy payment page to be created.
