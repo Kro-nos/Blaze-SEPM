@@ -41,7 +41,7 @@ if (array_key_exists('Admin', $_SESSION) === false) {
               <a href="../Admin/admin.php">DASHBOARD</a>
               <?php } elseif ($_SESSION['Admin'] == '0') {?>
               <a href="../dashboard/dashboard.php">DASHBOARD</a>
-            <?php } elseif ($_SESSION['Admin'] == '-1') {?><a href="../index.php">HOME</a>
+            <?php } elseif ($_SESSION['Admin'] == '-1') {?><a href="/index.php">HOME</a>
             <?php }?></strong></li>
 						<li><strong><a href="statusretriever.php">LIVE STATUS</a></strong></li>
 <!--						<li><strong><a href="Ticket/ticket.php">TICKET RESERVATION</a></strong></li>  -->
@@ -64,7 +64,7 @@ if (array_key_exists('Admin', $_SESSION) === false) {
 
 				<div class="container">
 					<section>
-						<a href="#" class="image fit"><img src="images/hqdefault.jpg" alt="Image cannot be loaded" width="500" height="500" /></a>
+						<a href="#" class="image fit"><img src="images/hqdefault.png" alt="Image cannot be loaded" width="693.3" height="600" /></a>
 						<p>*Our Aim is to <br>
 Provide a fully functional website to locate any train at any time and
 find the approximate time of arrival to the next station and the nearby station of the user
@@ -74,7 +74,7 @@ find the approximate time of arrival to the next station and the nearby station 
 							<li>Predict the time taken to reach the next nearby station and the station nearer the user(Premium users)</li>
 							<li>Upgrade for premium account</li>
 							<li>Play games(premium users)</li>
-							<li></li>
+							
 
 						</ul>
 					</section>

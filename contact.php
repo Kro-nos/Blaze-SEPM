@@ -103,7 +103,7 @@ session_start();
               <a href="../Admin/admin.php">DASHBOARD</a>
 						<?php } elseif ($_SESSION['Admin'] == '1') {?>
               <a href="../dashboard/dashboard.php">DASHBOARD</a>
-            <?php } else {?><a href="../index.php">HOME</a>
+            <?php } else {?><a href="/index.php">HOME</a>
             <?php }?></strong></li>
 						<li><strong><a href="statusretriever.php">LIVE STATUS</a></strong></li>
 <!--						<li><strong><a href="Ticket/ticket.php">TICKET RESERVATION</a></strong></li>	-->
