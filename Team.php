@@ -37,7 +37,7 @@ session_start();
               <a href="../Admin/admin.php">DASHBOARD</a>
               <?php } elseif ($_SESSION['Admin'] == '0') {?>
               <a href="../dashboard/dashboard.php">DASHBOARD</a>
-            <?php } else {?><a href="../index.php">HOME</a>
+            <?php } else {?><a href="/index.php">HOME</a>
             <?php }?></strong></li>
 						<li><strong><a href="statusretriever.php">LIVE STATUS</a></strong></li>
 <!--						<li><strong><a href="Ticket/ticket.php">TICKET RESERVATION</a></strong></li>	-->
@@ -63,22 +63,19 @@ session_start();
 				<div class="container">
 					<section>
 
-						<a href="#" class="image fit"><img src="images/trains.jpg" alt="Image cannot be loaded" width="100" height="300" /></a>
+						<a href="#" class="image fit"><img src="images/shyam.png" alt="Image cannot be loaded" width="693.3" height="600" /></a>
+						<a href="#" class="image fit"><img src="images/Yuvraj.png" alt="Image cannot be loaded" width="693.3" height="600" /></a>
+						<a href="#" class="image fit"><img src="images/meenakshi.png" alt="Image cannot be loaded" width="693.3" height="600" /></a>
 <!--						<p>Our Team includes Teachers and two enthusiastic and Students who are constantly working for the betterment of the system.The Current Members of the team are as Follows:-</p>
 -->
 						<h2>Our Team</h2>
 						<strong>	STUDENTS</strong><br>
 						<ul>
-							<li>PSB</li>
-							<li>MM</li>
-							<li>YKG</li></ul><br>
-						<strong>TEACHERS</strong><br>
-						<ul>
-							<li>Google</li>
-							<li>StackOverflow</li>
-							<li>GeeksForGeeks</li>
-							<li></li>
-						</ul>
+							<li>SHYAM BABU 		(RA1911030010019)</li>
+							<li>YUVRAJ K GAJANI (RA1911030010022)</li>
+							<li>MEENAKSHI M		(RA1911030010032)</li></ul><br>
+						<strong>Made with love</strong><br>
+						
 					</section>
 						</div>
 			</section>

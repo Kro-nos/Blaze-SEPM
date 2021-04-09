@@ -1003,7 +1003,7 @@ header {
 /* Banner */
 
 	#banner {
-		background-image: url("../images/banner.jpg");
+		background-image: url("../images/banner.png");
 		background-size: cover;
 		height:700px;
 		background-position: center center;
