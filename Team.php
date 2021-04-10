@@ -74,7 +74,7 @@ session_start();
 							<li>SHYAM BABU 		(RA1911030010019)</li>
 							<li>YUVRAJ K GAJANI (RA1911030010022)</li>
 							<li>MEENAKSHI M		(RA1911030010032)</li></ul><br>
-						<strong>Made with love</strong><br>
+						<strong>Made with 🧡</strong><br>
 						
 					</section>
 						</div>
