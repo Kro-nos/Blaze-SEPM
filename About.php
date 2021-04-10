@@ -44,13 +44,7 @@ if (array_key_exists('Admin', $_SESSION) === false) {
             <?php } elseif ($_SESSION['Admin'] == '-1') {?><a href="/index.php">HOME</a>
             <?php }?></strong></li>
 						<li><strong><a href="statusretriever.php">LIVE STATUS</a></strong></li>
-<!--						<li><strong><a href="Ticket/ticket.php">TICKET RESERVATION</a></strong></li>  -->
-						<li><strong><div class="dropdown"><a class="dropbtn">ENQUIRY</a>
-							<div class="dropdown-content">
-							<a href="traind/traind.php">Train Details</a>
-							<a href="fare/fare.php">Fare Enquiry</a>
-							<a href="Cancelled_trains/Cancelled_trains.php">Cancelled_trains</a>
-							<a href="Train_route/Route_retriever.php">Train Route Information</a></div>
+
 						</div></strong></li>
 						<li><strong><a href="About.php" class="selected">ABOUT</a></strong></li>
 						<li><strong><a href="Team.php">TEAM</a></strong></li>
