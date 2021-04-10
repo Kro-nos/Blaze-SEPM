@@ -133,7 +133,7 @@ div {
               <a href="../Admin/admin.php">DASHBOARD</a>
               <?php } elseif ($_SESSION['Admin'] == '0') {?>
               <a href="../dashboard/dashboard.php">DASHBOARD</a>
-            <?php } else {?><a href="../index.php">HOME</a>
+            <?php } else {?><a href="index.php">HOME</a>
             <?php }?></strong></li>
             <li><strong><a href="statusretriever.php" class="selected">LIVE STATUS</a></strong></li>
 
