@@ -68,9 +68,9 @@ h3 {text-align: 1000px;}
     <strong><strong><b><h3 style="color:blue;">ENTER DETAILS</h3></b></strong></strong>
 <form action="?"  method="post">
   <strong><h1 style="color:white;">Source:</h1></strong>
-  <input type="text" name="s" class="foo" required><br><br><br>
+  <input type="text" name="s" class="foo" style="color:white;" required><br><br><br>
   <strong><h1 style="color:white;">Destination:</h1></strong>
-  <input type= "text" name="d" required> <br><br>
+  <input type= "text" name="d" style="color:white;" required> <br><br>
   <input type="submit" value="Submit" name ="submit">
 </form></div></section>
 </body>
