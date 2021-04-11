@@ -52,6 +52,10 @@ $u = explode("@", $row['username']);
 						<li><strong><a href="../About.php">ABOUT</a></strong></li>
 						<li><strong><a href="../Team.php">TEAM</a></strong></li>
 						<li><strong><a href="../contact.php">CONTACT</a></strong></li>
+						<li><strong><div class="dropdown"><a class="dropbtn">PLAY GAMES</a>
+            <div class="dropdown-content">
+            <a href="../snake.html">Snake Game</a>
+            <a href="../raise.html">Accelerate</a></div>
 					</ul>
 				</nav>
 			</header>
