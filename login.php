@@ -2,7 +2,7 @@
 </html>
  <?php
 session_start();
-if (array_key_exists("logout", $_GET)) {
+if (array_key_exists("uid", $_SESSION)) {
     unset($_SESSION);
     setcookie("uid", "", time() - 60 * 60);
     $_COOKIE['uid'] = "";
