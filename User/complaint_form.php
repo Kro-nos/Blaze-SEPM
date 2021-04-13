@@ -85,11 +85,11 @@ if (isset($_POST['submit'])) {
 
         $name = mysqli_real_escape_string($db, $_POST['name']);
         $email = mysqli_real_escape_string($db, $_POST['Email']);
-        $pnr_no = mysqli_real_escape_string($db, $_POST['pnr_no']);
+
         $subject = mysqli_real_escape_string($db, $_POST['subject']);
         $id = mysqli_real_escape_string($db, $_SESSION['uid']);
 
-        $sql = "INSERT INTO complaints(uid,name,username,pnr_no,Subject) VALUES ('$id','$name','$email','$pnr_no','$subject')";
+        $sql = "INSERT INTO complaints(uid,name,username,Subject) VALUES ('$id','$name','$email','$subject')";
         if (mysqli_query($db, $sql)) {
 
             echo "<script>alert('Complaint Submitted Successfully'); window.location='../index.php'</script>";
