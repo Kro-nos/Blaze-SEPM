@@ -64,7 +64,7 @@ $u = explode("@", $row['username']);
 					<h2>WELCOME <?php echo $u[0]; ?></h2>
 					<strong><span class="role"></span></strong>
 					<ul class="actions">
-						<li><a target="_blank" href="../index.php?logout=1" class="button big special">Logout</a></li>
+						<li><a target="_blank" href="../logout.php" class="button big special">Logout</a></li>
 					</ul>
 				</div>
 			</section>
