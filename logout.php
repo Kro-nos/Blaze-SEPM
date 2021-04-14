@@ -4,7 +4,7 @@
 session_start();
 unset($_SESSION["username"]);
 unset($_SESSION["password"]);
-//header("Location:user_login.php");
+header("Location:user_login.php");
 //// destroy all $_SESSION variables
 session_destroy();
 setcookie (session_name(), '', time()-3600);

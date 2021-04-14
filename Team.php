@@ -54,6 +54,7 @@ session_start();
 					<h2>ABOUT US</h2>
 					<p>BLAZE</p>
 				</header>
+				
 				<div class="container">
 					<section>
 

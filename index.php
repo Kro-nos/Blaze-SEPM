@@ -62,7 +62,7 @@
 			<section id="banner">
 				<div class="inner">
 <!--					<h2><strong></strong></h2>	-->
-					<strong><span class="role" style="color:#0C090A"></span></strong>
+					
 					<ul class="actions">
 						<li><a target="_blank" href="login.php" class="button big special" style="margin-top: 305px; margin-left:-90px; opacity: 0.6">Login</a></li>
 						<li><a target="_blank" href="user_sign_up/user_sign_up.php" class="button big special" style="margin-top: 305px; margin-right:-80px; opacity: 0.6">Sign Up</a></li>
