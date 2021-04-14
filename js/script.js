@@ -1,5 +1,5 @@
  var typed3 = new Typed('.role', {
-    strings: ['Blaze- The Railway tracking and time prediction system', '  Track the tracks with us <3'],
+    strings: ['Blaze- The Railway tracking and time prediction system', '  Track the trains with us <3'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay:1500,
