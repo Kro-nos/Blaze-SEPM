@@ -41,7 +41,7 @@ if (array_key_exists('Admin', $_SESSION) === false) {
               <a href="../Admin/admin.php">DASHBOARD</a>
               <?php } elseif ($_SESSION['Admin'] == '0') {?>
               <a href="../dashboard/dashboard.php">DASHBOARD</a>
-            <?php } elseif ($_SESSION['Admin'] == '-1') {?><a href="/index.php">HOME</a>
+            <?php } elseif ($_SESSION['Admin'] == '-1') {?><a href="index.php">HOME</a>
             <?php }?></strong></li>
 						<li><strong><a href="statusretriever.php">LIVE STATUS</a></strong></li>
 
