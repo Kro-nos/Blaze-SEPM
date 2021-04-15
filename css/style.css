@@ -231,7 +231,7 @@ span{
 		outline: 0;
 		padding: 0 1em;
 		text-decoration: none;
-		width: 100%;
+		width: 30%;
 	}
 
 		input[type="text"]:invalid,
@@ -1131,7 +1131,7 @@ color:#000000;
 	margin-left: 0px;
 }
 input[type=text], input[type=password] {
-    width: 90%;
+    width: 30%;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
