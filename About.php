@@ -58,8 +58,11 @@ if (array_key_exists('Admin', $_SESSION) === false) {
 
 				<div class="container">
 					<section>
-						<a href="#" class="image fit"><img src="images/hqdefault.png" alt="Image cannot be loaded" width="693.3" height="600" /></a>
-						<p>*Our Aim is to <br>
+						<centre>
+						<a href="#"><img src="images/hqdefault.png" alt="Image cannot be loaded" width="1083.3" height="640" position="centre"/></a>
+			<B>			
+						
+						<p>Our Aim is to <br>
 Provide a fully functional website to locate any train at any time and
 find the approximate time of arrival to the next station and the nearby station of the user
 </p><br>
@@ -71,6 +74,8 @@ find the approximate time of arrival to the next station and the nearby station 
 							
 
 						</ul>
+			</B>
+						</centre>
 					</section>
 						</div>
 			</section>

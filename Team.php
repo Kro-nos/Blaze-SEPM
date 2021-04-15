@@ -51,8 +51,8 @@ session_start();
 		<!-- Main -->
 			<section id="main" class="wrapper style1">
 				<header class="major">
-					<h2>ABOUT US</h2>
-					<p>BLAZE</p>
+					<h2>MEET THE TEAM OF</h2>
+				 <i>	<h3>BLAZE</h3> </i>
 				</header>
 				
 				<div class="container">
@@ -69,8 +69,9 @@ session_start();
 							<li>SHYAM BABU 		(RA1911030010019)</li>
 							<li>YUVRAJ K GAJANI (RA1911030010022)</li>
 							<li>MEENAKSHI M		(RA1911030010032)</li></ul><br>
+							<centre>
 						<strong>Made with 🧡</strong><br>
-						
+							</centre>
 					</section>
 						</div>
 			</section>

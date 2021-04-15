@@ -57,6 +57,13 @@
 					</ul>
 				</nav>
 			</header>
+<!-- The video -->
+<video autoplay muted loop id="myVideo">
+  <source src="images/banner.mp4" type="video/mp4">
+</video>
+
+<!-- Optional: some overlay text to describe the video -->
+
 
 		<!-- Banner -->
 			<section id="banner">
@@ -64,8 +71,8 @@
 <!--					<h2><strong></strong></h2>	-->
 					
 					<ul class="actions">
-						<li><a target="_self" href="login.php" class="button big special" style="margin-top: 305px; margin-left:-90px; opacity: 0.6">Login</a></li>
-						<li><a target="_self" href="user_sign_up/user_sign_up.php" class="button big special" style="margin-top: 305px; margin-right:-80px; opacity: 0.6">Sign Up</a></li>
+						<li><a target="_self" href="login.php" class="button big special" style="margin-top: 280px; margin-left:-90px; opacity: 60%">Login</a></li>
+						<li><a target="_self" href="user_sign_up/user_sign_up.php" class="button big special" style="margin-top: 280px; margin-right:-80px; opacity: 60%">Sign Up</a></li>
 
 
 					</ul>
