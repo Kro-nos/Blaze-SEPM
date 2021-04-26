@@ -70,7 +70,7 @@ session_start();
 							<li>YUVRAJ K GAJANI (RA1911030010022)</li>
 							<li>MEENAKSHI M		(RA1911030010032)</li></ul><br>
 							<centre>
-						<strong>Made with 🧡</strong><br>
+						<strong><font color=black>Made with 🧡</font></strong><br>
 							</centre>
 					</section>
 						</div>
