@@ -62,18 +62,18 @@ if (array_key_exists('Admin', $_SESSION) === false) {
 						<a href="#"><img src="images/hqdefault.png" alt="Image cannot be loaded" width="1083.3" height="640" position="centre"/></a>
 			<B>			
 						
-						<p>Our Aim is to <br>
+						<p><font color=black>Our Aim is to <br>
 Provide a fully functional website to locate any train at any time and
 find the approximate time of arrival to the next station and the nearby station of the user
-</p><br>
-						<ul><u> Our Project has Following Main Features</u>
+</font></p><br>
+						<ul><u><font color=black> Our Project has Following Main Features</u>
 							<li>Find the location of any train in the country</li>
 							<li>Predict the time taken to reach the next nearby station and the station nearer the user(Premium users)</li>
 							<li>Upgrade for premium account</li>
 							<li>Play games(premium users)</li>
 							
 
-						</ul>
+						</font></ul>
 			</B>
 						</centre>
 					</section>
