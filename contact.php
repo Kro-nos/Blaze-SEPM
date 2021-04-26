@@ -159,7 +159,7 @@ session_start();
 						</span></h3><br>
 						<h3>If you have any <strong><font color=black>Complaints/Requests</font></strong> Please Login and Click here:</h3><a target="_blank" href="User/complaint_form.php" class="button special">Complaint/Request</a>
 						<br><br>
-						<h3>You can also Contact us at <strong>blaze@pm.me</strong>.</h3>
+						<h3>You can also Contact us at <strong><font color=black>blaze@pm.me</font></strong>.</h3>
             <h3>To buy a<strong><font color=black> premium subscription</font> </strong>Login and Click below:</h3><a target="_self" href="payment.php" class="button special">Buy premium subscription</a>
 						<br><br>
 					</section>
