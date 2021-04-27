@@ -13,9 +13,7 @@ $conn = mysqli_connect("localhost", "root", "", "rail_connect") or die("Unable t
 				<nav class="nav">
 				<div class="container">
 	    <div class="navbar-header">
-	    	<a href="#" class="pull-left ">
-	    <div id="logo" alt="TheAppleTalks Logo"></div>
-	    </a>
+	    	
 	    <div class="navbar-brand">
 	    </div></div></div></nav>
 				<nav id="nav" class="">
