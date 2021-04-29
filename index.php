@@ -2,7 +2,7 @@
 <html>
 
 	<head>
-		<title>Rail_Connect</title>
+		<title>Blaze-RailTrak</title>
 		<meta http-equiv="Cache-control" content="no-cache">
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta http-equiv="refresh" content="300" />
