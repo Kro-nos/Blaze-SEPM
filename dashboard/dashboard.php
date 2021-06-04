@@ -61,7 +61,14 @@ $u = explode("@", $row['username']);
 			</header>
 			<section id="banner">
 				<div class="inner">
-					<h2>WELCOME <?php echo $u[0]; ?></h2>
+<style>
+body {
+  background-image: url('../images/Dashboard.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
 					<strong><span class="role"></span></strong>
 					<ul class="actions">
 						<li><a target="_self" href="../logout.php" class="button big special">Logout</a></li>
