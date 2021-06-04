@@ -6,7 +6,7 @@ session_start();
 	<head>
 		<style>
 		.rating {
-  display: inline-block;
+  
   position: relative;
   height: 100px;
   line-height: 100px;
